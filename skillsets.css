@@ -18,7 +18,6 @@ a {
     text-decoration: none;
     color: gray;
 }
-
-    a:hover {
-        color: darkred;
-    }
+a:hover {
+    color: darkred;
+}
