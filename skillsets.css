@@ -1,3 +1,7 @@
+body {
+    background-color: #EAE7DC;
+}
+
 nav {
     display: block;
 }
@@ -12,12 +16,14 @@ ul {
 li {
     display: inline;
     margin-right: 20px;
+    padding: 4px;
 }
 
 a {
     text-decoration: none;
-    color: gray;
+    color: #8E8D8A;
 }
+
 a:hover {
-    color: darkred;
+    color: #E98074;
 }
