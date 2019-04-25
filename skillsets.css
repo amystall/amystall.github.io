@@ -32,4 +32,6 @@ button {
     background-color: #E98074;
     float:left;
     margin:20px;
+    height:50px;
+    width:100px;
 }
