@@ -27,3 +27,13 @@ a {
 a:hover {
     color: #E98074;
 }
+#projects{
+    margin:30px;
+    color:#E98074;
+    font-size:30px;
+}
+#projectsinfo {
+    color: #8E8D8A;
+    float: left;
+    margin: 30px;
+}
