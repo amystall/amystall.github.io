@@ -1,5 +1,6 @@
 body {
     background-color: #EAE7DC;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 nav {
@@ -26,4 +27,13 @@ a {
 
 a:hover {
     color: #E98074;
+}
+#aboutheading{
+    font-size:30px;
+    color:#E98074;
+    margin:30px;
+}
+#info{
+    color:#8E8D8A;
+    float:left;
 }
