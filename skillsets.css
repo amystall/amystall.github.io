@@ -35,10 +35,10 @@ a:hover {
     border-style:solid;
     border-color:#E98074;padding:1em;
 }
-#skillsheading{
-    color:#E98074;
-    margin:30px;
-    font-size:30px;
+#skillsheading {
+    color: #E98074;
+    margin-left: 30px;
+    font-size: 30px;
 }
 #skillslist{
     color:#8E8D8A;

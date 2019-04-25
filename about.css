@@ -28,10 +28,10 @@ a {
 a:hover {
     color: #E98074;
 }
-#aboutheading{
-    font-size:30px;
-    color:#E98074;
-    margin:30px;
+#aboutheading {
+    font-size: 30px;
+    color: #E98074;
+    margin-left: 30px;
 }
 #info{
     color:#8E8D8A;
