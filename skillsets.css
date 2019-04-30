@@ -40,6 +40,10 @@ a:hover {
     margin-left: 30px;
     font-size: 30px;
 }
-#skillslist{
-    color:#8E8D8A;
+#skillslist {
+    font-size: 20px;
+    color: #8E8D8A;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+    margin-left: 30px;
 }
