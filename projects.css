@@ -33,13 +33,23 @@ a:hover {
     color: #E98074;
     font-size: 30px;
 }
-#projectsinfo {
+#databaseprojectsinfo {
     font-size: 20px;
     color: #8E8D8A;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     float: left;
     margin-left: 30px;
 }
-#viewproject{
+#databaseviewproject{
     text-align:center;
+}
+#programmingprojectsinfo {
+    font-size: 20px;
+    color: #8E8D8A;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+    margin-left: 30px;
+}
+#programmingviewproject {
+    text-align: center;
 }
