@@ -18,20 +18,20 @@ li{
 }
 a{
     text-decoration:none;
-    color: #D8D9D7;
+    color: #80A7BF;
 }
 a:hover{
-    color:#E25658;
+    color:#163E73;
 }
 #name{
     margin-left:30px;
     font-size:30px;
-    color:#204359;
+    color:#093040;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #purpose {
     font-size: 20px;
-    color: #C4DDF2;
+    color: #163E73;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     float: left;
     margin-left:30px;
